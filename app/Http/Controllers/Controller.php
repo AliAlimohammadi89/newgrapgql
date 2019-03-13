@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
-//new branche 2
+//new branche 2 3
 use Illuminate\Foundation\Bus\DispatchesJobs;
 use Illuminate\Routing\Controller as BaseController;
 use Illuminate\Foundation\Validation\ValidatesRequests;
