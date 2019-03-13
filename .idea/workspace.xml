@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d8cc786-1f94-4a0f-96c7-712acdc0307c" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="2019_02_09_062518_create_comments_table.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/database/migrations/2019_02_09_062518_create_comments_table.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>saveMany</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Roocket\Desktop\laravel</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" />
+        <option value="$PROJECT_DIR$/app/Article.php" />
+        <option value="$PROJECT_DIR$/app/Comment.php" />
+        <option value="$PROJECT_DIR$/database/factories/UserFactory.php" />
+        <option value="$PROJECT_DIR$/app/User.php" />
+        <option value="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
+        <option value="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_02_09_062505_create_articles_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_02_09_062518_create_comments_table.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="37" />
+    <option name="width" value="1924" />
+    <option name="height" value="1054" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="laravel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravel" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="laravel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravel" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="laravel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravel" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Providers" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="laravel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravel" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="database" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="laravel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravel" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="database" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="factories" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="laravel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravel" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="database" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="migrations" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="laravel" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laravel" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="database" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="seeds" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d8cc786-1f94-4a0f-96c7-712acdc0307c" name="Default" comment="" />
+      <created>1549692505779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549692505779</updated>
+      <workItem from="1549692507149" duration="2742000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2742000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/graphql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-246">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1549692804101" expanded="false" signature="12:145" ph="..." />
+            <marker date="1549692804101" expanded="true" signature="155:5128" ph="..." />
+            <marker date="1549692804101" expanded="true" signature="218:731" ph="//..." />
+            <marker date="1549692804101" expanded="true" signature="774:1196" ph="//..." />
+            <marker date="1549692804101" expanded="true" signature="1351:1478" ph="//..." />
+            <marker date="1549692804101" expanded="true" signature="1727:2785" ph="//..." />
+            <marker date="1549692804101" expanded="true" signature="2804:3124" ph="..." />
+            <marker date="1549692804101" expanded="true" signature="2827:3117" ph="..." />
+            <marker date="1549692804101" expanded="true" signature="2852:2924" ph="..." />
+            <marker date="1549692804101" expanded="true" signature="2954:3033" ph="..." />
+            <marker date="1549692804101" expanded="true" signature="3132:3368" ph="//..." />
+            <marker date="1549692804101" expanded="true" signature="3385:3506" ph="..." />
+            <marker date="1549692804101" expanded="true" signature="3514:3751" ph="//..." />
+            <marker date="1549692804101" expanded="true" signature="3829:4053" ph=" Custom Error Handling ..." />
+            <marker date="1549692804101" expanded="true" signature="4250:4422" ph="..." />
+            <marker date="1549692804101" expanded="true" signature="4444:4565" ph="..." />
+            <marker date="1549692804101" expanded="true" signature="4575:4692" ph="..." />
+            <marker date="1549692804101" expanded="true" signature="4774:4851" ph="..." />
+            <marker date="1549692804101" expanded="true" signature="4873:5125" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="19" column="49" lean-forward="false" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+          <folding>
+            <marker date="1549693648508" expanded="false" signature="11:133" ph="..." />
+            <marker date="1549693648508" expanded="true" signature="175:859" ph="{...}" />
+            <marker date="1549693648508" expanded="true" signature="185:245" ph=" Run the migrations. ..." />
+            <marker date="1549693648508" expanded="true" signature="272:704" ph="{...}" />
+            <marker date="1549693648508" expanded="true" signature="302:696" ph="..." />
+            <marker date="1549693648508" expanded="true" signature="340:695" ph="..." />
+            <marker date="1549693648508" expanded="true" signature="713:777" ph=" Reverse the migrations. ..." />
+            <marker date="1549693648508" expanded="true" signature="806:857" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Article.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="8" column="57" lean-forward="false" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+          <folding>
+            <marker date="1549693664636" expanded="true" signature="91:153" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Comment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="8" column="62" lean-forward="false" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
+          <folding>
+            <marker date="1549693682357" expanded="true" signature="91:158" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/factories/UserFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="35" column="37" lean-forward="false" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+          <folding>
+            <marker date="1549693788525" expanded="true" signature="40:429" ph="..." />
+            <marker date="1549693788525" expanded="true" signature="450:812" ph="..." />
+            <marker date="1549693788525" expanded="true" signature="492:811" ph="..." />
+            <marker date="1549693788525" expanded="true" signature="505:808" ph="..." />
+            <marker date="1549693788525" expanded="true" signature="833:979" ph="..." />
+            <marker date="1549693788525" expanded="true" signature="878:978" ph="..." />
+            <marker date="1549693788525" expanded="true" signature="891:975" ph="..." />
+            <marker date="1549693788525" expanded="true" signature="1000:1106" ph="..." />
+            <marker date="1549693788525" expanded="true" signature="1045:1105" ph="..." />
+            <marker date="1549693788525" expanded="true" signature="1058:1102" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasOneOrMany.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="823">
+          <caret line="260" column="20" lean-forward="false" selection-start-line="260" selection-start-column="20" selection-end-line="260" selection-end-column="20" />
+          <folding>
+            <marker date="1549691396278" expanded="false" signature="62:184" ph="..." />
+            <marker date="1549691396278" expanded="true" signature="230:11559" ph="{...}" />
+            <marker date="1549691396278" expanded="true" signature="240:316" ph=" The foreign key of the parent model. ..." />
+            <marker date="1549691396278" expanded="true" signature="354:428" ph=" The local key of the parent model. ..." />
+            <marker date="1549691396278" expanded="true" signature="464:525" ph=" The count of self joins. ..." />
+            <marker date="1549691396278" expanded="true" signature="577:858" ph=" Create a new has one or many relationship instance. ..." />
+            <marker date="1549691396278" expanded="true" signature="947:1084" ph="{...}" />
+            <marker date="1549691396278" expanded="true" signature="1093:1259" ph=" Create and return an un-saved instance of the related model. ..." />
+            <marker date="1549691396278" expanded="true" signature="1310:1479" ph="{...}" />
+            <marker date="1549691396278" expanded="true" signature="1336:1471" ph="..." />
+            <marker date="1549691396278" expanded="true" signature="1400:1470" ph="..." />
+            <marker date="1549691396278" expanded="true" signature="1488:1576" ph=" Set the base constraints on the relation query. ..." />
+            <marker date="1549691396278" expanded="true" signature="1615:1813" ph="{...}" />
+            <marker date="1549691396278" expanded="true" signature="1657:1806" ph="..." />
+            <marker date="1549691396278" expanded="true" signature="1822:1947" ph=" Set the constraints for an eager load of the relation. ..." />
+            <marker date="1549691396278" expanded="true" signature="2004:2207" ph="{...}" />
+            <marker date="1549691396278" expanded="true" signature="2118:2199" ph="..." />
+            <marker date="1549691396278" expanded="true" signature="2216:2445" ph=" Match the eagerly loaded results to their single parents. ..." />
+            <marker date="1549691396278" expanded="true" signature="2523:2610" ph="{...}" />
+            <marker date="1549691396278" expanded="true" signature="2619:2846" ph=" Match the eagerly loaded results to their many parents. ..." />
+            <marker date="1549691396278" expanded="true" signature="2925:3013" ph="{...}" />
+            <marker date="1549691396278" expanded="true" signature="3022:3278" ph=" Match the eagerly loaded results to their many parents. ..." />
+            <marker date="1549691396278" expanded="true" signature="3372:3999" ph="{...}" />
+            <marker date="1549691396278" expanded="true" signature="3723:3967" ph="..." />
+            <marker date="1549691396278" expanded="true" signature="3807:3957" ph="..." />
+            <marker date="1549691396278" expanded="true" signature="3844:3942" ph="..." />
+            <marker date="1549691396278" expanded="true" signature="4008:4194" ph=" Get the value of a relationship by one or many type. ..." />
+            <marker date="1549691396278" expanded="true" signature="4268:4405" ph="{...}" />
+            <marker date="1549691396278" expanded="true" signature="4414:4581" ph=" Build model dictionary keyed by the relation's foreign key. ..." />
+            <marker date="1549691396278" expanded="true" signature="4643:4852" ph="{...}" />
+            <marker date="1549691396278" expanded="true" signature="4739:4837" ph="..." />
+            <marker date="1549691396278" expanded="true" signature="4774:4836" ph="..." />
+            <marker date="1549691396278" expanded="true" signature="4861:5097" ph=" Find a model by its primary key or return new instance of the related model. ..." />
+            <marker date="1549691396278" expanded="true" signature="5152:5381" ph="{...}" />
+            <marker date="1549691396278" expanded="true" signature="5221:5347" ph="..." />
+            <marker date="1549691396278" expanded="true" signature="5390:5603" ph=" Get the first related model record matching the attributes or instantiate it. ..." />
+            <marker date="1549691396278" expanded="true" signature="5675:5933" ph="{...}" />
+            <marker date="1549691396278" expanded="true" signature="5752:5899" ph="..." />
+            <marker date="1549691396278" expanded="true" signature="5942:6144" ph=" Get the first related record matching the attributes or create it. ..." />
+            <marker date="1549691396278" expanded="true" signature="6219:6401" ph="{...}" />
+            <marker date="1549691396278" expanded="true" signature="6296:6367" ph="..." />
+            <marker date="1549691396278" expanded="true" signature="6410:6629" ph=" Create or update a related record matching the attributes, and fill it with values. ..." />
+            <marker date="1549691396278" expanded="true" signature="6705:6887" ph="{...}" />
+            <marker date="1549691396278" expanded="true" signature="6731:6879" ph="..." />
+            <marker date="1549691396278" expanded="true" signature="6799:6878" ph="..." />
+            <marker date="1549691396278" expanded="true" signature="6896:7077" ph=" Attach a model instance to the parent model. ..." />
+            <marker date="1549691396278" expanded="true" signature="7118:7233" ph="{...}" />
+            <marker date="1549691396278" expanded="true" signature="7242:7373" ph=" Attach a collection of models to the parent instance. ..." />
+            <marker date="1549691396278" expanded="true" signature="7413:7531" ph="{...}" />
+            <marker date="1549691396278" expanded="true" signature="7457:7499" ph="..." />
+            <marker date="1549691396278" expanded="true" signature="7540:7689" ph=" Create a new instance of the related model. ..." />
+            <marker date="1549691396278" expanded="true" signature="7742:7943" ph="{...}" />
+            <marker date="1549691396278" expanded="true" signature="7768:7935" ph="..." />
+            <marker date="1549691396278" expanded="true" signature="7832:7934" ph="..." />
+            <marker date="1549691396278" expanded="true" signature="7952:8118" ph=" Create a Collection of new instances of the related model. ..." />
+            <marker date="1549691396278" expanded="true" signature="8167:8366" ph="{...}" />
+            <marker date="1549691396278" expanded="true" signature="8268:8331" ph="..." />
+            <marker date="1549691396278" expanded="true" signature="8375:8523" ph=" Set the foreign ID for creating a related model. ..." />
+            <marker date="1549691396278" expanded="true" signature="8592:8685" ph="{...}" />
+            <marker date="1549691396278" expanded="true" signature="8694:8978" ph=" Add the constraints for a relationship query. ..." />
+            <marker date="1549691396278" expanded="true" signature="9082:9361" ph="{...}" />
+            <marker date="1549691396278" expanded="true" signature="9162:9271" ph="..." />
+            <marker date="1549691396278" expanded="true" signature="9370:9672" ph=" Add the constraints for a relationship query on the same table. ..." />
+            <marker date="1549691396278" expanded="true" signature="9791:10104" ph="{...}" />
+            <marker date="1549691396278" expanded="true" signature="9997:10096" ph="..." />
+            <marker date="1549691396278" expanded="true" signature="10113:10191" ph=" Get a relationship join table hash. ..." />
+            <marker date="1549691396278" expanded="true" signature="10236:10309" ph="{...}" />
+            <marker date="1549691396278" expanded="true" signature="10318:10425" ph=" Get the key for comparing against the parent key in &quot;has&quot; query. ..." />
+            <marker date="1549691396278" expanded="true" signature="10472:10536" ph="{...}" />
+            <marker date="1549691396278" expanded="true" signature="10545:10631" ph=" Get the key value of the parent's local key. ..." />
+            <marker date="1549691396278" expanded="true" signature="10668:10741" ph="{...}" />
+            <marker date="1549691396278" expanded="true" signature="10750:10833" ph=" Get the fully qualified parent key name. ..." />
+            <marker date="1549691396278" expanded="true" signature="10883:10957" ph="{...}" />
+            <marker date="1549691396278" expanded="true" signature="10966:11035" ph=" Get the plain foreign key. ..." />
+            <marker date="1549691396278" expanded="true" signature="11077:11192" ph="{...}" />
+            <marker date="1549691396278" expanded="true" signature="11201:11285" ph=" Get the foreign key for the relationship. ..." />
+            <marker date="1549691396278" expanded="true" signature="11336:11382" ph="{...}" />
+            <marker date="1549691396278" expanded="true" signature="11391:11473" ph=" Get the local key for the relationship. ..." />
+            <marker date="1549691396278" expanded="true" signature="11513:11557" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="32" column="46" lean-forward="false" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+          <folding>
+            <marker date="1549693942676" expanded="false" signature="27:166" ph="..." />
+            <marker date="1549693942676" expanded="true" signature="202:654" ph="{...}" />
+            <marker date="1549693942676" expanded="true" signature="233:312" ph=" The attributes that are mass assignable. ..." />
+            <marker date="1549693942676" expanded="true" signature="342:391" ph="..." />
+            <marker date="1549693942676" expanded="true" signature="402:489" ph=" The attributes that should be hidden for arrays. ..." />
+            <marker date="1549693942676" expanded="true" signature="517:560" ph="..." />
+            <marker date="1549693942676" expanded="true" signature="593:652" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/DatabaseSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="21" column="27" lean-forward="false" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <folding>
+            <marker date="1549695089231" expanded="true" signature="75:707" ph="{...}" />
+            <marker date="1549695089231" expanded="true" signature="85:158" ph=" Seed the application's database. ..." />
+            <marker date="1549695089231" expanded="true" signature="186:705" ph="{...}" />
+            <marker date="1549695089231" expanded="true" signature="248:697" ph="..." />
+            <marker date="1549695089231" expanded="true" signature="266:696" ph="..." />
+            <marker date="1549695089231" expanded="true" signature="346:371" ph="..." />
+            <marker date="1549695089231" expanded="true" signature="396:685" ph="..." />
+            <marker date="1549695089231" expanded="true" signature="416:684" ph="..." />
+            <marker date="1549695089231" expanded="true" signature="511:665" ph="..." />
+            <marker date="1549695089231" expanded="true" signature="512:664" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <folding>
+            <marker date="1549695172738" expanded="true" signature="37:111" ph="..." />
+            <marker date="1549695172738" expanded="true" signature="161:472" ph="{...}" />
+            <marker date="1549695172738" expanded="true" signature="171:247" ph=" Bootstrap any application services. ..." />
+            <marker date="1549695172738" expanded="true" signature="276:330" ph="{...}" />
+            <marker date="1549695172738" expanded="true" signature="339:414" ph=" Register any application services. ..." />
+            <marker date="1549695172738" expanded="true" signature="447:470" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_02_09_062505_create_articles_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding>
+            <marker date="1549695201944" expanded="false" signature="11:133" ph="..." />
+            <marker date="1549695201944" expanded="true" signature="178:717" ph="{...}" />
+            <marker date="1549695201944" expanded="true" signature="188:248" ph=" Run the migrations. ..." />
+            <marker date="1549695201944" expanded="true" signature="275:559" ph="{...}" />
+            <marker date="1549695201944" expanded="true" signature="305:551" ph="..." />
+            <marker date="1549695201944" expanded="true" signature="346:550" ph="..." />
+            <marker date="1549695201944" expanded="true" signature="568:632" ph=" Reverse the migrations. ..." />
+            <marker date="1549695201944" expanded="true" signature="661:715" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_02_09_062518_create_comments_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
