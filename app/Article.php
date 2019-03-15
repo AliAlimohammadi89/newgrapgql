@@ -6,5 +6,6 @@ use Illuminate\Database\Eloquent\Model;
 
 class Article extends Model
 {
-    protected $fillable = ['user_id' , 'title' , 'body'];
+    protected $fillable = ['user_id' , 'title' , 'body'];//git statt
+	
 }
